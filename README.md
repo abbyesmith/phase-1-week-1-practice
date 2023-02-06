@@ -29,24 +29,24 @@ The dataset for this practice can be found in `nyc-ufo-sightings.json`. It is an
 ---
 ## Challenges
 
-* Write a function called `calculateMinutes` that takes in an argument called `seconds` and returns how many minutes it is equal to, rounding down.
+<!-- * Write a function called `calculateMinutes` that takes in an argument called `seconds` and returns how many minutes it is equal to, rounding down. -->
 
-* Write a function called `getRandomSighting` that returns a **random** ufo sighting object from the `UFO_SIGHTINGS` dataset. If you need help or a hint, [click here](https://stackoverflow.com/questions/4550505/getting-a-random-value-from-a-javascript-array).
+<!-- * Write a function called `getRandomSighting` that returns a **random** ufo sighting object from the `UFO_SIGHTINGS` dataset. If you need help or a hint, [click here](https://stackoverflow.com/questions/4550505/getting-a-random-value-from-a-javascript-array). -->
 
-* Write a function called `getRandomSightings` that takes a number as an argument and returns an array with that many random sightings.
+<!-- * Write a function called `getRandomSightings` that takes a number as an argument and returns an array with that many random sightings. -->
 
-* Write a function called `getLongestSighting` that takes in an array of ufo sightings and returns the longest one.
+<!-- * Write a function called `getLongestSighting` that takes in an array of ufo sightings and returns the longest one. -->
 
-* Write a function called `getComment` that takes in a ufo sighting object as an argument and returns the comment as a string.
+<!-- * Write a function called `getComment` that takes in a ufo sighting object as an argument and returns the comment as a string. -->
 
-* Write a function called `getFirstWordInComment` that takes a ufo sighting object as an argument and returns the first word in the commnent.
+<!-- * Write a function called `getFirstWordInComment` that takes a ufo sighting object as an argument and returns the first word in the commnent. -->
 
-* Write a function called `shapeTypes` that returns an array of all the different shapes that are present in the `UFO_SIGHTINGS`. There should only be one copy of each shape in the returned array (no duplicates). 
+<!-- * Write a function called `shapeTypes` that returns an array of all the different shapes that are present in the `UFO_SIGHTINGS`. There should only be one copy of each shape in the returned array (no duplicates).  -->
 
-* Write a function called `calculateViewDuration` that takes in a ufo sighting object and returns the string `"Short"` if the object's duration is under 120, `"Average"` if the time is between 120 and 240, and `"Long"` if the time is greater than 240.
+<!-- * Write a function called `calculateViewDuration` that takes in a ufo sighting object and returns the string `"Short"` if the object's duration is under 120, `"Average"` if the time is between 120 and 240, and `"Long"` if the time is greater than 240. -->
 
-* Write a function that calculates the average duration of all sighting objects in `UFO_SIGHTINGS`.
+<!-- * Write a function that calculates the average duration of all sighting objects in `UFO_SIGHTINGS`. -->
 
-* Write a function that returns the first ufo sighting in `UFO_SIGHTINGS` that's over 10 minutes long.
+<!-- * Write a function that returns the first ufo sighting in `UFO_SIGHTINGS` that's over 10 minutes long. -->
 
-* Write a function that returns an array of all the comments from ufo sightings that were less than one minute.
+<!-- * Write a function that returns an array of all the comments from ufo sightings that were less than one minute. -->
